@@ -32,4 +32,14 @@ ex) @bot_name 분노
 Documents
 ---------
 
-1. 
+#### 1. crawl.py
+
+10000recipe.com 의 레시피 db를 크롤링하여 [지정된 파일]에 write해주는 파일
+
+#### 2. rb2.py
+
+서버없이 테스트환경을 조성하기 위해 함수를 작성하였던 dummy
+
+#### 3. rb.py
+
+crawl.py에
