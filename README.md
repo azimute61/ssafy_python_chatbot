@@ -3,6 +3,7 @@ TITLE : 오늘 뭐 먹지
 Slack Chat Bot (PYTHON)
 -----------
 >FEATURES
+
 #1. 음식 이름으로 레시피 찾기 
 
   1. COMMAND
