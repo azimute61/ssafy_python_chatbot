@@ -4,7 +4,7 @@ Slack Chat Bot (PYTHON)
 -----------
 >FEATURES
 
-#1. 음식 이름으로 레시피 찾기 
+# 1. 음식 이름으로 레시피 찾기 
 
   1. COMMAND
     1. @bot_name 이름 레시피명
