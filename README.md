@@ -6,10 +6,10 @@ Slack Chat Bot (PYTHON)
 
 #### 1. 음식 이름으로 레시피 찾기 
 
-1. COMMAND
+COMMAND
 @bot_name 이름 레시피명
 
-2. RESULT
+RESULT
 ex) @bot_name 이름 감자
 ex) @bot_name 이름 치즈
 
